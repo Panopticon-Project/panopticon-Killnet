@@ -11,3 +11,5 @@ https://cyberknow.medium.com/killnet-pro-russian-hacktivists-e916ac7201a3
 https://therecord.media/russian-hacking-group-takes-credit-for-wide-ranging-cyberattack-on-lithuania
 
 https://www.wired.com/story/russia-hacking-xaknet-killnet/
+
+https://www.cyberscoop.com/killnet-congress-ddos-russia-hacktivist/
