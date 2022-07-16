@@ -13,3 +13,5 @@ https://therecord.media/russian-hacking-group-takes-credit-for-wide-ranging-cybe
 https://www.wired.com/story/russia-hacking-xaknet-killnet/
 
 https://www.cyberscoop.com/killnet-congress-ddos-russia-hacktivist/
+
+https://intel471.com/blog/killnet-xaknet-legion-ddos-attacks
