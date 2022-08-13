@@ -15,3 +15,5 @@ https://www.wired.com/story/russia-hacking-xaknet-killnet/
 https://www.cyberscoop.com/killnet-congress-ddos-russia-hacktivist/
 
 https://intel471.com/blog/killnet-xaknet-legion-ddos-attacks
+
+https://www.securityweek.com/killnet-releases-proof-its-attack-against-lockheed-martin
