@@ -23,3 +23,5 @@ https://www.securityweek.com/estonia-blocks-cyberattacks-claimed-russian-hackers
 https://news.err.ee/1608688201/estonia-subjected-to-extensive-cyberattacks-after-moving-soviet-monuments
 
 https://www.linkedin.com/pulse/making-sense-killnet-russias-favorite-hacktivists-flashpoint-intel/
+
+https://twitter.com/Cyberknow20/status/1562026022312103937?utm_source=substack&utm_medium=email
