@@ -25,3 +25,5 @@ https://news.err.ee/1608688201/estonia-subjected-to-extensive-cyberattacks-after
 https://www.linkedin.com/pulse/making-sense-killnet-russias-favorite-hacktivists-flashpoint-intel/
 
 https://twitter.com/Cyberknow20/status/1562026022312103937?utm_source=substack&utm_medium=email
+
+https://therecord.media/cyberattack-disrupts-bulgarian-government-websites-over-betrayal-to-russia/
