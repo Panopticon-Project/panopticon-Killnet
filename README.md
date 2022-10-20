@@ -27,3 +27,8 @@ https://www.linkedin.com/pulse/making-sense-killnet-russias-favorite-hacktivists
 https://twitter.com/Cyberknow20/status/1562026022312103937?utm_source=substack&utm_medium=email
 
 https://therecord.media/cyberattack-disrupts-bulgarian-government-websites-over-betrayal-to-russia/
+
+https://plevnapatriot.com/bulgaria/48101/bulgaria-demands-extradition-of-a-russian-citizen-suspected-for-cyber-attack/
+
+https://www.svobodnaevropa.bg/a/32084652.html
+
