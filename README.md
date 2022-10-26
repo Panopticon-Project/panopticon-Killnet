@@ -35,3 +35,5 @@ https://www.svobodnaevropa.bg/a/32084652.html
 https://www.npr.org/2022/10/10/1127902795/airport-killnet-cyberattack-hacker-russia
 
 https://edition.cnn.com/2022/10/05/politics/russian-hackers-state-government-websites/index.html
+
+https://therecord.media/coverage-of-killnet-ddos-attacks-plays-into-attackers-hands-experts-say/
