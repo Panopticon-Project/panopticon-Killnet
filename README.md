@@ -39,3 +39,5 @@ https://edition.cnn.com/2022/10/05/politics/russian-hackers-state-government-web
 https://therecord.media/coverage-of-killnet-ddos-attacks-plays-into-attackers-hands-experts-say/
 
 https://www.darkreading.com/attacks-breaches/us-treasury-1-killnet-0
+
+https://therecord.media/european-parliament-faces-cyberattack-from-pro-russia-group-after-terrorism-declaration/
