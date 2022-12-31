@@ -41,3 +41,5 @@ https://therecord.media/coverage-of-killnet-ddos-attacks-plays-into-attackers-ha
 https://www.darkreading.com/attacks-breaches/us-treasury-1-killnet-0
 
 https://therecord.media/european-parliament-faces-cyberattack-from-pro-russia-group-after-terrorism-declaration/
+
+https://archive.ph/j1ehY
