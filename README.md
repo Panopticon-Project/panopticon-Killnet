@@ -43,3 +43,5 @@ https://www.darkreading.com/attacks-breaches/us-treasury-1-killnet-0
 https://therecord.media/european-parliament-faces-cyberattack-from-pro-russia-group-after-terrorism-declaration/
 
 https://archive.ph/j1ehY
+
+https://naon.tinosmarble.com/ukraineeng/hackers-will-exchange-the-stolen-base-of-the-us-internal-revenue-service-for-loyalty-to-moscow-and-minsk/
